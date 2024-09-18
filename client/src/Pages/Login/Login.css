@@ -1,0 +1,14 @@
+
+.loginpage{
+    height: 500px;
+    width: 500px;
+    /* background-color: aliceblue;
+     */
+     background-color: rgba(0,0,0, 0.43);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
